@@ -3,7 +3,7 @@ require("dotenv").config()
 const Product = require('./models/productModel')
 const cors = require('cors');
 
-const cors = require('cors')
+
 const db = require("./db")
 
 const app = express();
